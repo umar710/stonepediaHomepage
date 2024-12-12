@@ -20,9 +20,8 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+5. 🔗 [Links](#links)
+
 
 
 
@@ -82,13 +81,10 @@ npm run dev
 ```
 
 **Deployment**:
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+Open - [Live Website](https://stonepedia-homepage.vercel.app/) in your browser to view the project.
   
 
 ## <a name="links">🔗 Links</a>
 
-- [Assets](https://drive.google.com/file/d/1JKzwPl_hnpjIlNbwfjMagb4HosxnyXbf/view?usp=sharing)
-- [Design](https://drive.google.com/file/d/15WJMOchujvaQ7Kg9e0nGeGR7G7JOeX1K/view?usp=sharing)
-- [Absolute Relative Positioning](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
-- [Live Website](https://jsm-brainwave.com/)
+- [Live Website](https://stonepedia-homepage.vercel.app/)
 
